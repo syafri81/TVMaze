@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gisua", "gisua\gisua.csproj", "{D67F2C56-9F51-4CDC-A256-9C61D580C230}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gisua.Tests", "gisua.Tests\gisua.Tests.csproj", "{C05F0C92-98BC-4EB9-A389-8D0D209B2F61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D67F2C56-9F51-4CDC-A256-9C61D580C230}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D67F2C56-9F51-4CDC-A256-9C61D580C230}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D67F2C56-9F51-4CDC-A256-9C61D580C230}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D67F2C56-9F51-4CDC-A256-9C61D580C230}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C05F0C92-98BC-4EB9-A389-8D0D209B2F61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C05F0C92-98BC-4EB9-A389-8D0D209B2F61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C05F0C92-98BC-4EB9-A389-8D0D209B2F61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C05F0C92-98BC-4EB9-A389-8D0D209B2F61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C46E64D3-7920-4104-8845-7943F3336069}
+	EndGlobalSection
+EndGlobal
